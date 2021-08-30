@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sushma
-- 👀 I’m interested in DataScientist
+- 👀 I’m interested in New technologies working as DataScientist
 - 🌱 I’m currently learning Machine Learning,Deep learning,Ajax,Django..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
